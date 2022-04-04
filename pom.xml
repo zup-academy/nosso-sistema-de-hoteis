@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.zup.edu</groupId>
-	<artifactId>nosso-sistema-de-hoteis</artifactId>
+	<artifactId>aluga-car-zup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>nosso-sistema-de-hoteis</name>
+	<name>aluga-car-zup</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
