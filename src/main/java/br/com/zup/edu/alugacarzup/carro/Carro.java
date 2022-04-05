@@ -17,6 +17,9 @@ public class Carro {
     @Column(nullable = false)
     private String marca;
 
+    @Column
+    private String reservadoPara;
+
     @Column(nullable = false)
     private boolean disponivel;
 
